@@ -41,7 +41,7 @@ public class PhoneApp {
 		br.close();
 		
 		
-		//스캐너로 값 입력받기, 난 두개만 추가받을게..
+		//스캐너로 값 입력받기
 		Scanner sc = new Scanner(System.in);
 		System.out.println("사원을 더 입력해주세요.(종료:/q)");
 		System.out.print(">>");
